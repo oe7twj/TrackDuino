@@ -9,10 +9,6 @@ Nessecary hardware:
 - a bundle jumper wire [1€]
 
 
-![Screenshot](/docu/7-Seg-blau.jpg)
-
-
-
 TrackDuino can do for you:
 - either display the current track 
 - or work as an I2C slave device sending the current track
@@ -29,3 +25,8 @@ The sector header contains information about the current track# and sector# and 
 
 As soon the track number is extracted from sector data it display the track number (or offers it as I2C slave).
 Now it is simple to track the change of track by reading the data for the stepper motor.
+
+
+![Screenshot](/docu/7-Seg-blau.jpg)
+
+![Screenshot](/docu/arduino_Nano.jpg)
