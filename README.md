@@ -29,4 +29,4 @@ Now it is simple to track the change of track by reading the data for the steppe
 
 ![Screenshot](/docu/7-Seg-blau.jpg)
 
-![Screenshot](/docu/arduino?Nano.jpg)
+
