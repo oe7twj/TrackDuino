@@ -9,6 +9,9 @@ Nessecary hardware:
 - a bundle jumper wire [1€]
 
 
+![Screenshot](/docu/arduino Nano.jpg)
+
+
 TrackDuino can do for you:
 - either display the current track 
 - or work as an I2C slave device sending the current track
