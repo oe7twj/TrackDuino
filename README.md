@@ -27,6 +27,6 @@ As soon the track number is extracted from sector data it display the track numb
 Now it is simple to track the change of track by reading the data for the stepper motor.
 
 
-![Screenshot](/docu/7-Seg-blau.jpg)
+![Screenshot]("/docu/7-Seg-blau.jpg")
 
-![Screenshot](/docu/arduino_Nano.jpg)
+![Screenshot]("/docu/arduino_Nano.jpg")
