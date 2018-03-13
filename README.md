@@ -9,7 +9,8 @@ Nessecary hardware:
 - a bundle jumper wire [1€]
 
 
-![Screenshot](/docu/arduino Nano.jpg)
+![Screenshot](/docu/7-Seg-blau.jpg)
+
 
 
 TrackDuino can do for you:
