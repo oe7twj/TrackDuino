@@ -1,0 +1,8 @@
+This sketch is the code for the track display.
+
+There are two working modes:
+- stand alone: display track number on a TM1637 LED display
+- as I2C slave: send tracknumber using I2C bus
+
+edit the first line in this sketch to change the mode.
+
