@@ -27,8 +27,8 @@ After reset the current track is unknown.
 
 If Floppy Drive starts the Arduino starts reading data from inserted Floppy Disc.
 It simply reads the data from internal IO device VIA 6522.
-Each track contans some data sectors, and each sectot has an sector header.
-The sector header contains information about the current track# and sector# and some others.
+Each track contains some data sectors, and each sector has an sector-header.
+The sector-header contains information about the current track# and sector# and some others.
 
 As soon the track number is extracted from sector data it display the track number (or offers it as I2C slave).
 Now it is simple to track the change of track by reading the data for the stepper motor.
