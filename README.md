@@ -2,19 +2,26 @@
 Track Display for a 1541 Floppy Drive
 
 
-Nessecary hardware:
+### Nessecary Hardware:
 - an old 1541 Floppy Drive
 - an arduino Nano [3€]
 - a TM1637 display (4x 7 segment) [1€]
 - a bundle jumper wire [1€]
 
 
-TrackDuino can do for you:
+### Nessecary Software:
+- Arduino Workbench
+- Arduino Lib: digitalWriteFast 
+  https://github.com/NicksonYap/digitalWriteFast
+- Arduino Lib: TimerOne
+
+
+### TrackDuino can do for you:
 - either display the current track 
 - or work as an I2C slave device sending the current track
 
 
-How does it work:
+## How does it work:
 
 After reset the current track is unknown.
 
