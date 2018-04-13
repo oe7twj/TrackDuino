@@ -3,10 +3,10 @@ Track Display for a 1541 Floppy Drive
 
 
 ### Nessecary Hardware:
-- an old 1541 Floppy Drive
-- an arduino Nano [3€]
+- an old 1541 or 1541-II Floppy Drive
+- an Arduino Nano [3€]
 - a TM1637 display (4x 7 segment) [1€]
-- a bundle jumper wire [1€]
+- a bundle jumper-wire [1€]
 
 
 ### Nessecary Software:
